@@ -1,3 +1,9 @@
+/* Large Devices (Desktops) */
+@media only screen and (min-width: fullscreen) {
+  body {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 1400px) {
   #profile {
     height: 83vh;
